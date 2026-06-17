@@ -1,102 +1,86 @@
 # CONTEXT.md
 
 > Mon contexte personnel et professionnel pour mon Jarvis.
-> Ce fichier sera rempli automatiquement lors de l'installation initiale puis mis à jour au fil du temps par Claude.
+> Mis à jour automatiquement par Claude au fil des sessions.
 
 ---
 
 ## Qui je suis
 
-[À REMPLIR PAR LE MODULE D'INSTALLATION]
-
-- **Prénom :**
-- **Ville / Pays :**
-- **Situation actuelle :**
-- **Profil dominant :** [étudiant / employé / entrepreneur / indépendant / mix]
+- **Prénom :** Guillaume
+- **Ville / Pays :** Cerdon, Ain (France)
+- **Situation actuelle :** Entrepreneur multi-activités
+- **Profil dominant :** Entrepreneur
 
 ---
 
 ## Ce que je fais
 
-[À REMPLIR PAR LE MODULE D'INSTALLATION]
-
 ### Activité principale
 
-(Description en quelques lignes)
+Entrepreneur avec plusieurs activités complémentaires dans l'automobile et le digital, en transition progressive vers l'immobilier.
 
-### Détails selon le profil
+### Détails
 
-**Si étudiant :**
-- Domaine d'études :
-- Niveau / Année :
-- École ou université :
+**Achat / revente auto**
+Achat de véhicules en propre pour les revendre avec marge.
 
-**Si employé :**
-- Poste :
-- Entreprise / Secteur :
-- Missions principales :
+**Intermédiation auto**
+Accompagnement de clients particuliers pour vendre leur voiture : prise en charge de la mise en vente, annonces, négociation. Source de revenu récurrente et principale à court terme.
 
-**Si entrepreneur ou indépendant :**
-- Activité :
-- Modèle économique :
-- Clients types :
+**Création de sites internet**
+Vente de sites internet à des clients (particuliers ou professionnels).
+
+**Formation marchand de biens (en cours)**
+Formation pour apprendre l'achat/revente immobilier et la découpe de parcelles. Objectif : en faire l'activité principale à moyen terme.
 
 ---
 
 ## Mes objectifs
 
-[À REMPLIR PAR LE MODULE D'INSTALLATION]
-
 ### Objectifs court terme (3 à 6 mois)
 
-- 
-- 
-- 
+- Vendre 4 à 5 voitures pour le compte de clients par mois (intermédiation) pour couvrir le revenu de base
+- Réaliser 1 opération d'achat/revente de véhicule en propre par mois
+- Trouver et concrétiser une 1ère opération immobilière (parcelle à découper ou immeuble à vendre à la découpe)
 
 ### Objectifs long terme (1 à 3 ans)
 
-- 
-- 
-- 
+- Devenir marchand de biens à temps complet
+- Atteindre 200 000 euros net par an via l'immobilier
 
 ---
 
 ## Mes projets en cours
 
-[À REMPLIR PAR LE MODULE D'INSTALLATION]
-
-Liste des projets ou chantiers actifs sur lesquels je veux que Claude m'aide :
-
-- 
-- 
-- 
+- Achat/revente auto (opérations régulières)
+- Intermédiation auto (accompagnement clients à la vente)
+- Vente de sites internet
+- Formation marchand de biens (en cours de suivi)
 
 ---
 
 ## Mes outils et préférences
 
-[À REMPLIR PAR LE MODULE D'INSTALLATION]
-
 ### Outils que j'utilise au quotidien
 
-(Notion, Google Workspace, Slack, etc.)
-
-- 
-- 
-- 
+- Google (recherche, suite)
+- ChatGPT, Claude, Gemini (IA)
+- Le Bon Coin (annonces auto et immo)
+- Mobile.de / Mobile.fr (annonces auto)
+- Info Parcelle (analyse foncière)
+- PLU (Plan Local d'Urbanisme, consultation réglementaire)
 
 ### Style de communication préféré
 
-(Direct et efficace / Avec explications détaillées / Autre)
+Un mélange selon le contexte : direct et efficace pour les sujets simples, avec explications détaillées quand le sujet le demande.
 
 ### Domaine où j'ai besoin du plus d'aide
 
-(Stratégie / Productivité / Création de contenu / Apprentissage / Autre)
+Immobilier (marchand de biens) en priorité, avec flexibilité selon les besoins du moment.
 
 ---
 
 ## Notes importantes
 
 > Cette section se remplira au fil du temps avec les éléments de contexte qui émergent naturellement dans mes sessions avec Claude.
-
-[VIDE INITIALEMENT - SE REMPLIRA AU FIL DU TEMPS]

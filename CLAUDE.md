@@ -14,10 +14,13 @@ Ce workspace est le Jarvis personnel de [VOTRE NOM]. Il a été créé avec le J
 
 ## Who I Am
 
-> Cette section sera remplie automatiquement lors de l'installation initiale via le module `/install module-installs/jarvis-install`.
-> Elle peut ensuite évoluer au fil du temps quand votre situation change.
+Je m'appelle Guillaume et je vis à Cerdon, dans l'Ain (France). Je suis entrepreneur multi-activités : achat/revente de véhicules, intermédiation auto (j'aide mes clients à vendre leur voiture), création de sites internet. Je suis également en formation pour devenir marchand de biens, avec l'objectif de me lancer dans l'achat/revente immobilier et la découpe de parcelles.
 
-[À REMPLIR PAR LE MODULE D'INSTALLATION]
+Mes objectifs prioritaires actuels sont de stabiliser mon revenu via l'intermédiation auto (4 à 5 ventes/mois), faire 1 opération auto en propre par mois, et décrocher ma 1ère opération immobilière.
+
+À long terme, je veux devenir marchand de biens à temps complet et atteindre 200 000 euros net par an.
+
+Le domaine où j'ai besoin du plus d'aide en ce moment : l'immobilier (marchand de biens), avec flexibilité selon les besoins du moment.
 
 ---
 
